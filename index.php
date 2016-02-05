@@ -1,5 +1,5 @@
 <?php
-  <blink>Hellow Worldd!</blink>
+  echo "<blink>Hellow Worldd!</blink>";
 ?>
 
 
