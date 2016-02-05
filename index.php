@@ -1,6 +1,5 @@
 <?php
-
-<blink> Hello world! </blink>
+  print("<blink>Hello World!</blink>");
 ?>
 
 
