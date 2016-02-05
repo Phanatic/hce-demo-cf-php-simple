@@ -1,5 +1,5 @@
 <?php
-  echo "<blink>Hellow Worldd!</blink>";
+  echo "<blink>Hello Worlds!</blink>";
   phpinfo()
 ?>
 
