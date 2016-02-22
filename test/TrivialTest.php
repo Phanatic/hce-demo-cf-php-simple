@@ -7,7 +7,7 @@ class TrivialTest extends PHPUnit_Framework_TestCase {
   {
     // Arrange
     $a = "hello";
-    $b = "hello";
+    $b = "hello world";
 
 
     // Assert
