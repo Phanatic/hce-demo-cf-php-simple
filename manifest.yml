@@ -1,4 +1,6 @@
 applications:
 - name: hce-demo-cf-php-simple
+  url: 
+  - hce-demo-cf-php-simple.ec2.stacktest.io
   memory: 64M
   buildpack: https://github.com/hpcloud/heroku-buildpack-php
