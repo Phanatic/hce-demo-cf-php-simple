@@ -6,8 +6,8 @@ class TrivialTest extends PHPUnit_Framework_TestCase {
   public function testWillPass()
   {
     // Arrange
-    $a = "hello";
-    $b = "hello";
+    $a = "world";
+    $b = "world";
 
 
     // Assert
